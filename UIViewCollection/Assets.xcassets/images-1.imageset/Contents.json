@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "apple-iphone-12-128gb-gruen-ohne-simlock-002.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

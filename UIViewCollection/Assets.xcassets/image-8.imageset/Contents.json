@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "3467946179_w200_h200_mobilnyj-telefon-apple.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
